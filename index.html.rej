@@ -1,0 +1,15 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -0,0 +1,12 @@
++<!DOCTYPE html>
++<html lang="ja">
++<head>
++  <meta charset="UTF-8">
++  <meta name="viewport" content="width=device-width, initial-scale=1.0">
++  <meta http-equiv="X-UA-Compatible" content="ie=edge">
++  <title>Document</title>
++</head>
++<body>
++  <p>新しく追加した文章</p>
++</body>
++</html>
+\ No newline at end of file
